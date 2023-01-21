@@ -1,5 +1,5 @@
 
-mod tipo_da_variavel;
+#[path = "./utils/tipo_da_variavel.rs"] mod tipo_da_variavel;
 
 fn main(){
 	let variavel:u8 = 128;
