@@ -20,7 +20,7 @@ fn main(){
 	std::mem::size_of_val(&letra), 
 	tipo_da_variavel::tipo(letra));
 
-	let mut booleano:bool = true; //por padrao no rust as variaveis tem seus valores imutaveis, a palavra reservada mut permite a reatribuicao do valor da variavel
+	let mut booleano:bool = true; //por padrao no rust as variaveis sao imutaveis, a palavra reservada mut permite a reatribuicao do valor da variavel
 	println!("variavel = {}, tamanho em byte = {}, tipo = {}", 
 	booleano, 
 	std::mem::size_of_val(&booleano), 
