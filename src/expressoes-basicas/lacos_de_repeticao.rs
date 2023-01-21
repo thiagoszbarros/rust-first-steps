@@ -17,6 +17,10 @@ fn repeticoes() {
             break;
         }
     }
+    println!("Tabuada do 5 com for");
+    for i in 1..11{
+        println!("{} x {} = {}", multiplicador, i, i * multiplicador);
+    }
 }
 
 fn main (){
