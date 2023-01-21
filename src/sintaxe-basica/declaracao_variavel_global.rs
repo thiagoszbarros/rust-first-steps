@@ -1,4 +1,4 @@
-#[path = "./utils/obter_tipo.rs"] mod obter_tipo;
+#[path = "../utils/obter_tipo.rs"] mod obter_tipo;
 
 static VARIAVEL_GLOBAL:&str = "Variavel global"; 
 // static mut VARIAVEL_GLOBAL:&str = "Variavel global"; 

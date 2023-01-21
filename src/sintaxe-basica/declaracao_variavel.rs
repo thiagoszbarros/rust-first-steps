@@ -1,5 +1,5 @@
 
-#[path = "./utils/obter_tipo.rs"] mod obter_tipo;
+#[path = "../utils/obter_tipo.rs"] mod obter_tipo;
 
 fn main(){
 	let numero_inteiro:u8 = 128;
