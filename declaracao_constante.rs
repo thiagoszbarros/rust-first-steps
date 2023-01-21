@@ -1,4 +1,4 @@
-#[path = "./utils/obter-tipo.rs"] mod obter_tipo;
+#[path = "./utils/obter_tipo.rs"] mod obter_tipo;
 
 const PI:f32 = 3.14; //uma constante nao tem espaco reservado na memoria para si
 //em tempo de compilacao o valor da constante sera substituido em todos os lugares do codigo onde a constante for chamada
