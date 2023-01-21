@@ -8,4 +8,3 @@ fn main(){
 	std::mem::size_of_val(&variavel), 
 	tipo_da_variavel::tipo(variavel))
 }
-
