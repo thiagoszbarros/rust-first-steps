@@ -1,3 +1,7 @@
 *.exe
 *.pdb
 .vscode
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
