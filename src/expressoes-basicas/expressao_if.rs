@@ -21,7 +21,7 @@ fn verifica_adulto(idade: u8) -> &'static str {
     adulto
 }
 
-fn main() {
+pub fn retorna_if() {
     let adulto = verifica_adulto(19);
     println!("John Doe é adulto? {}", adulto);
 }
