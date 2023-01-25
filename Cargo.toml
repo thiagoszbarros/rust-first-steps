@@ -1,0 +1,4 @@
+[package]
+name = "rust-primeiros-passos"
+version = "0.0.1"
+authors = ["Thiago Barros <thiagobarros95@gmail.com"]
